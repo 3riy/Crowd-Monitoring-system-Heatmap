@@ -1,5 +1,7 @@
-## Crowd & CLuster Monitoring system with Heatmap
+## Crowd & Cluster Monitoring system with Heatmap
 Crowd monitoring system developed using Python and OpenCV.
+
+<img src="crowd.png">
 
 - cv2: OpenCV library for image processing and computer vision
 - numpy: For array/matrix operations
