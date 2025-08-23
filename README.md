@@ -1,5 +1,5 @@
 ## Crowd & Cluster Monitoring system with Heatmap
-Crowd monitoring system developed using Python and OpenCV.
+Crowd monitoring system developed using Python and OpenCV, numpy, DBSCAN
 
 <img src="crowd.png">
 
