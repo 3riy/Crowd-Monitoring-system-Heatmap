@@ -1,0 +1,3 @@
+opencv-python    # Used for video processing, drawing, heatmap blending, and MobileNet SSD inference
+numpy            # Handles array operations, centroid math, and heatmap matrix calculations
+scikit-learn     # Provides DBSCAN clustering for grouping detected people spatially
