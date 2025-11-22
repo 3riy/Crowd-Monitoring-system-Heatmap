@@ -322,7 +322,7 @@ pip install -r requirements.txt
 ### 4. Run the App
 
 ```bash
-python crowd_detect.py
+python3 crowd_detect.py
 ```
 ---
 
