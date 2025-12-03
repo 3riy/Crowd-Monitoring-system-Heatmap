@@ -45,7 +45,7 @@ This project utilizes **Python** and **OpenCV** to process video feeds, detect i
 
 Here is a screenshot from a run of the project with the bounding boxes around object(s) detected and person and cluster count at the top, as well as heatmap.
 
-<img width="80%" alt="Crowd Monitoring Screenshot" src="https://github.com/rh3nium/rh3nium.github.io/blob/main/img/c.png?raw=true">
+<img width="80%" alt="Crowd Monitoring Screenshot" src="https://github.com/rh3nium/rh3nium.github.io/blob/main/img/rrrrr.png?raw=true">
 
 ---
 
