@@ -1,6 +1,6 @@
 # 👥 Crowd & Cluster Monitoring System with Heatmap
 
-<b>This system integrates computer vision, density-based clustering (DBSCAN), and heatmap generation to deliver real-time crowd density analysis and clustering visualization.</b>
+### <b>This system integrates computer vision, density-based clustering (DBSCAN), and heatmap generation to deliver real-time crowd density analysis and clustering visualization.</b>
 
 # TABLE OF CONTENTS
 
@@ -61,8 +61,9 @@ Here is a screenshot from a run of the project with the bounding boxes around ob
 
 ### Machine Learning
 
-* **DBSCAN (sklearn)** – Density-based clustering
-* **NumPy** – Array and matrix operations
+* **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** – Unsupervised machine learning algorithm in scikit-learn that groups together closely packed data points into dense regions (clusters) and identifies points in low-density areas as noise or outliers.
+* **NumPy** – NumPy arrays are the fundamental way images and video frames are stored and accessed in OpenCV's Python bindings. A grayscale image is a 2D array, while a color image is a 3D array (height, width, and color channels, typically BGR).
+* Allows us to perform array and matrix operations such as accessing/modifying pixels, image slicing, cropping, rotation, resizing, and flipping, combining images and adjusting brightness, and drawing lines, rectangles, and text.
 
 ---
 
